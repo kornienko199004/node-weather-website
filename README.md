@@ -1,3 +1,3 @@
-#link to project
+### link to project
 
-```https://kornienko-weather-application.herokuapp.com/```
+[Weather-app] https://kornienko-weather-application.herokuapp.com/```
